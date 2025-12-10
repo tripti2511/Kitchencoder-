@@ -15,7 +15,7 @@ if dish_name:
         recipe_info = matched.iloc[0]
         st.write(f"**Dish Name:** {recipe_info['Dish Name']}")
         st.write(f"**Cuisine:** {recipe_info['Cuisine']}")
-        st.write(f"**Cooking Time:** {recipe_info['Cooking Time']} mins")
+        st.write(f"**Cooking Time(min):** {recipe_info['Cooking Time(min)']}")
         st.write(f"**Ingredients:** {recipe_info['Ingredients']} ")
         st.write(f"**Tips:** {recipe_info['Tips']}")
         st.write(f"**Recipe Steps:** {recipe_info['Recipe Steps']}")
