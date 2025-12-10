@@ -1,0 +1,442 @@
+Dish Name,Cuisine,Cooking Time(min),Ingredients,Recipe Steps,Tips
+Butter Chicken,India,45,"Chicken, Butter, Cream, Tomatoes, Spices, Ginger, Garlic",1. Marinate chicken. 2. Grill pieces. 3. Prepare tomato-butter gravy. 4. Add cream and simmer.,Use ripe tomatoes for best color.
+Amritsari Kulcha,India,25,"Maida, Potato, Spices, Ghee",1. Knead dough. 2. Stuff potato mix. 3. Roll and cook in tandoor.,Brush with butter after cooking.
+Dal Makhani,India,60,"Black urad dal, Rajma, Butter, Cream, Tomatoes",1. Pressure cook dal. 2. Prepare tomato gravy. 3. Slow cook with butter.,Cook on low heat for smoky flavor.
+Chole Bhature,India,50,"Chickpeas, Flour, Spices, Curd",1. Cook chole. 2. Knead bhature dough. 3. Fry bhature.,Add tea bag while boiling chole for color.
+Sarson ka Saag,India,45,"Mustard leaves, Spinach, Makki flour, Spices",1. Cook greens. 2. Mash. 3. Temper with ghee.,Serve with Makki roti.
+Tandoori Chicken,India,50,"Chicken, Hung curd, Tandoori masala",1. Marinate chicken. 2. Grill in oven/tandoor.,Add mustard oil for authentic flavor.
+Paneer Tikka,India,20,"Paneer, Curd, Spices, Capsicum",1. Marinate paneer. 2. Grill skewers.,Use thick curd to avoid dripping.
+Paneer Butter Masala,India,35,"Paneer, Tomato, Cream, Butter, Spices",1. Make tomato gravy. 2. Add paneer and simmer.,Do not overcook paneer.
+Rajma Chawal,India,40,"Kidney beans, Tomatoes, Spices",1. Cook rajma. 2. Prepare gravy. 3. Combine.,Soak rajma overnight.
+Aloo Paratha,India,20,"Wheat flour, Potato, Spices",1. Stuff dough. 2. Roll and roast.,Use ghee for best taste.
+Gajar ka Halwa,India,45,"Carrot, Milk, Sugar, Ghee, Nuts",1. Cook grated carrots in milk. 2. Add sugar. 3. Add ghee.,Use red winter carrots if possible.
+Pindi Chole,India,40,"Chickpeas, Spices, Tea bag",1. Boil chole. 2. Add spices.,Dry roast spices for flavor.
+Dal Baati Churma,India,60,"Wheat flour, Ghee, Dal, Jaggery",1. Make baati. 2. Cook dal. 3. Prepare churma.,Dip hot baatis in ghee.
+Gatte ki Sabzi,India,35,"Gram flour, Yogurt, Spices",1. Make gatte. 2. Cook in yogurt gravy.,Ensure curd does not curdle.
+Ker Sangri,India,30,"Ker, Sangri, Spices",1. Boil ker-sangri. 2. Stir fry.,Use mustard oil.
+Laal Maas,India,45,"Mutton, Red chillies, Yogurt",1. Marinate. 2. Slow cook.,Use Mathania chillies.
+Papad ki Sabzi,India,15,"Papad, Curd, Spices",1. Break papad. 2. Cook in curd gravy.,Add papad only at end.
+Ghevar,India,60,"Flour, Sugar, Ghee",1. Prepare batter. 2. Fry in ghee. 3. Add sugar syrup.,Use mold for shape.
+Rajasthani Kadhi,India,25,"Curd, Gram flour, Spices",1. Mix curd. 2. Cook with spices.,Whisk well to avoid lumps.
+Mawa Kachori,India,40,"Kachori dough, Mawa, Sugar syrup",1. Stuff. 2. Fry. 3. Dip in syrup.,Seal edges tightly.
+Rogan Josh,India,50,"Mutton, Yogurt, Kashmiri chilli",1. Cook mutton. 2. Add spices.,Use Kashmiri chilli for color.
+Yakhni,India,45,"Mutton, Yogurt, Fennel",1. Cook mutton in spiced yogurt broth.,Keep flame low.
+Dum Aloo Kashmiri,India,30,"Baby potatoes, Yogurt, Spices",1. Fry potatoes. 2. Add yogurt.,Prick potatoes before frying.
+Modur Pulao,India,25,"Rice, Saffron, Dry fruits",1. Cook rice with saffron and sugar.,Don't over-sweeten.
+Goshtaba,India,60,"Minced meat, Yogurt, Spices",1. Make meatballs. 2. Cook in yogurt gravy.,Knead meat thoroughly.
+Rista,India,60,"Minced meat, Spices",1. Prepare red gravy. 2. Add meatballs.,Use wooden hammer to pound meat.
+Haak,India,30,"Kashmiri greens, Spices",1. Boil greens. 2. Add spices.,Do not overcook.
+Sheermal,India,30,"Flour, Milk, Saffron",1. Knead dough. 2. Bake.,Add saffron milk at end.
+Awadhi Biryani,India,60,"Rice, Meat, Spices, Saffron",1. Parboil rice. 2. Layer with meat. 3. Dum.,Seal pot with dough.
+Galouti Kebab,India,25,"Mutton mince, Spices, Ghee",1. Marinate. 2. Pan fry.,Use stone-ground spices.
+Kakori Kebab,India,25,"Mutton mince, Spices",1. Skewer & grill.,Keep mixture very soft.
+Nihari,India,90,"Meat, Bone marrow, Spices",1. Slow cook.,Cook overnight for best taste.
+Bedmi Poori,India,30,"Wheat flour, Urad dal, Spices",1. Stuff dal paste. 2. Fry.,Serve with potato curry.
+Aloo Tamatar Sabzi,India,20,"Potatoes, Tomatoes, Spices",1. Boil potatoes. 2. Make gravy.,Add ghee for aroma.
+Mathura Peda,India,60,"Milk, Sugar, Ghee",1. Reduce milk. 2. Add sugar.,Slow reduction gives best taste.
+Tehri,India,30,"Rice, Vegetables, Spices",1. Saute veggies. 2. Add rice and cook.,Use mustard oil for authentic flavor.
+Banarasi Tamatar Chaat,India,20,"Tomatoes, Spices, Ghee",1. Cook tomatoes in ghee. 2. Add masala.,Serve hot with sev.
+Malpua,India,30,"Flour, Sugar, Milk, Fennel",1. Make batter. 2. Fry. 3. Dip in syrup.,Serve with rabri.
+Siddu,India,45,"Wheat dough, Walnut filling",1. Stuff dough. 2. Steam.,Serve with ghee.
+Chha Gosht,India,45,"Mutton, Curd, Spices",1. Fry mutton. 2. Cook in curd gravy.,Use mustard oil.
+Madra,India,35,"Chickpeas, Yogurt, Spices",1. Cook chickpeas. 2. Add yogurt gravy.,Keep flame low.
+Kafuli,India,25,"Spinach, Fenugreek, Spices",1. Grind greens. 2. Cook with spices.,Use mustard oil.
+Gahat Dal,India,30,"Gahat lentils, Spices",1. Boil lentils. 2. Add tempering.,Cook in iron pan.
+Aloo ke Gutke,India,20,"Potatoes, Spices",1. Fry potatoes. 2. Add spices.,Serve with roti.
+Bal Mithai,India,60,"Khoya, Sugar, Sugar balls",1. Cook khoya. 2. Add sugar.,Cool completely before cutting.
+Arsa,India,30,"Rice flour, Jaggery",1. Make dough. 2. Fry.,Use fresh jaggery.
+Thukpa (North),India,30,"Noodles, Vegetables, Chicken",1. Prepare broth. 2. Add noodles.,Use homemade stock.
+Babru,India,25,"Flour, Black gram paste",1. Stuff dough. 2. Fry.,Serve hot.
+Idli,India,20,"Rice batter, Urad dal",1. Steam batter.,Fermented batter gives softness.
+Dosa,India,15,"Rice batter, Urad dal",1. Spread batter. 2. Roast.,Use cast iron tawa.
+Sambar,India,30,"Dal, Vegetables, Tamarind",1. Cook dal. 2. Add veggies & tamarind.,Add ghee at end.
+Rasam,India,15,"Tamarind, Tomatoes, Spices",1. Boil tamarind. 2. Add spices.,Use fresh rasam powder.
+Pongal,India,20,"Rice, Dal, Ghee, Pepper",1. Cook dal & rice. 2. Temper.,Use plenty of ghee.
+Kothu Parotta,India,25,"Parotta, Eggs/Chicken, Spices",1. Tear parotta. 2. Cook with masala.,Use iron pan.
+Chicken Chettinad,India,40,"Chicken, Spices, Coconut",1. Make masala. 2. Cook chicken.,Roast spices well.
+Kuzhi Paniyaram,India,15,"Idli batter, Spices",1. Cook in paniyaram mould.,Add onions for flavor.
+Lemon Rice,India,10,"Rice, Lemon, Peanuts",1. Temper spices. 2. Mix rice.,Use leftover rice.
+Curd Rice,India,10,"Rice, Curd, Tempering",1. Mix curd & rice. 2. Add tadka.,Use chilled curd.
+Murukku,India,30,"Rice flour, Urad flour",1. Make dough. 2. Fry.,Use coconut oil for crispiness.
+Adai,India,20,"Mixed lentils, Rice",1. Soak lentils. 2. Grind. 3. Cook.,Serve with jaggery.
+Kerala Parotta,India,30,"Maida, Oil, Milk",1. Knead. 2. Roll layers. 3. Cook.,Rest dough well for softness.
+Beef Fry,India,40,"Beef, Coconut, Spices",1. Pressure cook beef. 2. Fry.,Use coconut oil.
+Appam,India,15,"Rice batter, Coconut milk",1. Ferment batter. 2. Cook.,Tilt pan for lace edges.
+Fish Moilee,India,25,"Fish, Coconut milk, Spices",1. Fry fish lightly. 2. Cook in coconut gravy.,Do not overcook fish.
+Kerala Sadya,India,60,"Assorted vegetables, Coconut",1. Prepare dishes. 2. Serve on banana leaf.,Serve hot.
+Avial,India,30,"Mixed vegetables, Coconut paste",1. Cook veggies. 2. Add coconut.,Add coconut oil at end.
+Thoran,India,15,"Vegetables, Coconut, Mustard",1. Stir fry veggies with coconut.,Keep flame medium.
+Prawn Roast,India,20,"Prawns, Spices, Coconut oil",1. Marinate. 2. Cook.,Don't overcook prawns.
+Malabar Biryani,India,45,"Rice, Chicken/Mutton, Spices",1. Prepare masala. 2. Layer rice.,Use Jeerakasala rice.
+Kappa & Meen Curry,India,30,"Tapioca, Fish, Spices",1. Boil kappa. 2. Make fish curry.,Use coconut oil.
+Bisi Bele Bath,India,40,"Rice, Dal, Vegetables, Spices",1. Cook rice & dal. 2. Prepare masala. 3. Combine.,Use fresh Bisi Bele masala.
+Mysore Masala Dosa,India,20,"Dosa batter, Potato masala",1. Make dosa. 2. Add masala filling.,Use cast-iron tawa.
+Ragi Mudde,India,10,"Ragi flour, Water, Salt",1. Cook flour in water. 2. Roll into balls.,Serve with sambar.
+Mysore Pak,India,25,"Gram flour, Ghee, Sugar",1. Cook sugar syrup. 2. Add besan-ghee mix.,Use generous ghee.
+Kesari Bath,India,15,"Semolina, Sugar, Saffron",1. Roast semolina. 2. Add syrup.,Add pineapple for variation.
+Neer Dosa,India,10,"Rice batter, Salt",1. Make thin batter. 2. Cook.,Use non-stick pan.
+Kundapura Chicken,India,45,"Chicken, Coconut, Spices",1. Make masala. 2. Cook chicken.,Use coconut oil.
+Udupi Sambar,India,30,"Dal, Vegetables, Jaggery",1. Cook dal. 2. Add veggies & spices.,Use jaggery lightly.
+Maddur Vada,India,20,"Flour, Onion, Spices",1. Make dough. 2. Fry.,Do not over-knead.
+Mangalorean Fish Curry,India,30,"Fish, Coconut, Spices",1. Make coconut paste. 2. Cook fish.,Use Byadgi chilli.
+Hyderabadi Biryani,India,60,"Rice, Meat, Spices, Saffron",1. Marinate meat. 2. Layer rice. 3. Dum.,Seal lid with dough.
+Haleem,India,180,"Wheat, Meat, Lentils, Spices",1. Slow cook everything. 2. Blend. 3. Garnish.,Long cooking enhances flavor.
+Gongura Chicken,India,35,"Chicken, Sorrel leaves, Spices",1. Fry leaves. 2. Cook chicken.,Use fresh gongura.
+Pesarattu,India,20,"Green gram, Ginger, Chillies",1. Grind dal. 2. Cook like dosa.,Serve with upma.
+Kodi Kura,India,40,"Chicken, Spices, Onions",1. Fry onions. 2. Cook chicken.,Use gingelly oil.
+Mirchi Bajji,India,10,"Green chillies, Besan",1. Dip chillies in batter. 2. Fry.,Slit chillies & add stuffing.
+Ulavacharu,India,60,"Horse gram, Spices",1. Cook lentils. 2. Extract stock. 3. Boil.,Serve with rice.
+Royyala Iguru,India,25,"Prawns, Spices, Onions",1. Cook prawns with masala.,Don't overcook.
+Andhra Meals,India,60,"Rice, Sambar, Rasam, Curries",1. Prepare multiple dishes.,Serve on banana leaf.
+Pulihora,India,15,"Rice, Tamarind paste, Spices",1. Temper spices. 2. Mix with rice.,Use sesame seeds.
+Shorshe Ilish,India,30,"Hilsa, Mustard paste, Spices",1. Make mustard paste. 2. Steam fish.,Use yellow+black mustard mix.
+Kosha Mangsho,India,60,"Mutton, Spices, Curd",1. Slow cook mutton.,Do not add water.
+Aloo Posto,India,20,"Potatoes, Poppy seeds",1. Make posto paste. 2. Cook potatoes.,Use mustard oil.
+Cholar Dal,India,25,"Chana dal, Coconut, Spices",1. Boil dal. 2. Add spices.,Add sugar for sweetness.
+Mishti Doi,India,360,"Milk, Jaggery, Curd",1. Caramelize milk. 2. Set with curd.,Use earthen pots.
+Rasgulla,India,60,"Chhena, Sugar syrup",1. Knead chhena. 2. Boil in syrup.,Knead until smooth.
+Sandesh,India,45,"Chhena, Sugar, Flavoring",1. Cook chhena lightly. 2. Shape.,Don't overcook.
+Doi Maach,India,30,"Fish, Curd, Spices",1. Marinate fish. 2. Cook in curd gravy.,Keep flame low.
+Luchi,India,15,"Maida, Oil",1. Knead dough. 2. Fry.,Rest dough for softness.
+Pithe,India,30,"Rice flour, Jaggery, Coconut",1. Make dough. 2. Fry/steam.,Use fresh coconut.
+Bhetki Paturi,India,25,"Fish, Mustard paste, Banana leaf",1. Wrap fish. 2. Steam.,Use tender banana leaves.
+Dalma,India,30,"Dal, Vegetables, Spices",1. Cook dal & veggies. 2. Add spices.,Use ghee.
+Pakhala,India,720,"Cooked rice, Water, Curd",1. Ferment rice. 2. Serve chilled.,Add fried veggies.
+Chhena Poda,India,60,"Chhena, Sugar, Semolina",1. Mix chhena. 2. Bake.,Caramelize top well.
+Besara,India,25,"Vegetables, Mustard paste",1. Cook veggies with mustard.,Use fresh mustard.
+Macha Ghanta,India,40,"Fish head, Vegetables",1. Fry fish head. 2. Cook with veggies.,Use mustard oil.
+Dahi Baingan,India,20,"Brinjal, Curd, Spices",1. Fry brinjal. 2. Add curd.,Use fresh curd.
+Gupchup,India,15,"Puris, Tamarind water, Spices",1. Fill puris. 2. Serve.,Serve immediately.
+Manda Pitha,India,30,"Rice flour, Coconut, Jaggery",1. Prepare dough. 2. Steam.,Do not over-steam.
+Masor Tenga,India,25,"Fish, Tomatoes/Lemon, Spices",1. Fry fish lightly. 2. Make tangy gravy.,Use kokum for variation.
+Khar,India,40,"Raw papaya, Pulses, Alkaline khar",1. Prepare khar. 2. Slow cook.,Use filtered khar water.
+Duck Curry,India,60,"Duck meat, Spices, Black sesame",1. Fry meat. 2. Add roasted spices.,Cook slowly for tenderness.
+Bamboo Shoot Pickle,India,20,"Bamboo shoot, Mustard oil, Spices",1. Boil bamboo. 2. Mix spices.,Ferment for deeper flavor.
+Aloo Pitika,India,10,"Boiled potatoes, Mustard oil",1. Mash potatoes. 2. Mix spices.,Use smoked chillies.
+Xaak Bhaji,India,10,"Leafy greens, Garlic, Oil",1. Stir fry greens.,Do not overcook.
+Narikol Pitha,India,30,"Coconut, Jaggery, Rice flour",1. Stuff dough. 2. Fry.,Use fresh coconut.
+Litti Chokha,India,40,"Wheat flour, Sattu, Spices",1. Make litti. 2. Roast. 3. Prepare chokha.,Roast over charcoal for best taste.
+Thekua,India,25,"Wheat flour, Jaggery",1. Knead dough. 2. Fry.,Store in airtight jar.
+Rugra,India,20,"Wild mushrooms, Spices",1. Clean mushrooms. 2. Stir fry.,Cook on medium heat.
+Handia,India,1440,"Rice, Herbal starter",1. Ferment rice.,Store in cool place.
+Bihari Kabab,India,50,"Beef/Mutton, Spices",1. Marinate. 2. Skewer & grill.,Add papaya for tenderness.
+Kadhi Bari,India,30,"Gram flour, Curd, Spices",1. Fry bari. 2. Cook in kadhi.,Whisk curd well.
+Pittha,India,30,"Rice flour, Coconut/Jaggery",1. Fill dumplings. 2. Steam.,Use wet hands to shape.
+Dhokla,India,2,"Gram flour, Eno, Spices",1. Make batter. 2. Steam.,Add tadka after cooling.
+Khandvi,India,25,"Gram flour, Curd",1. Cook batter. 2. Roll.,Spread thin for soft layers.
+Undhiyu,India,45,"Mixed vegetables, Methi muthia",1. Slow cook veggies.,Use winter veggies.
+Thepla,India,20,"Wheat flour, Fenugreek",1. Prepare dough. 2. Cook.,Use yogurt for softness.
+Fafda,India,15,"Gram flour, Spices",1. Make dough. 2. Fry.,Serve with jalebi.
+Jalebi,India,30,"Flour, Sugar syrup",1. Fry spirals. 2. Dip in syrup.,Ferment batter overnight.
+Handvo,India,40,"Rice-lentil batter, Vegetables",1. Mix batter. 2. Bake.,Add sesame seeds.
+Dal Dhokli,India,40,"Dal, Wheat dough pieces",1. Cook dal. 2. Add dough.,Simmer well.
+Locho,India,20,"Gram flour, Spices",1. Steam batter. 2. Add toppings.,Serve hot.
+Sev Tamatar,India,20,"Tomatoes, Sev, Spices",1. Cook tomato gravy. 2. Add sev.,Add sev at last.
+Vada Pav,India,20,"Potato filling, Pav, Besan",1. Fry vada. 2. Assemble.,Add dry garlic chutney.
+Misal Pav,India,30,"Sprouts, Spicy gravy, Pav",1. Cook misal. 2. Serve with pav.,Adjust spice level.
+Pav Bhaji,India,25,"Vegetables, Butter, Pav",1. Cook mashed veggies. 2. Toast pav.,Use Kashmiri chilli powder.
+Puran Poli,India,45,"Wheat flour, Chana dal, Jaggery",1. Cook dal. 2. Stuff dough.,Serve with ghee.
+Sabudana Khichdi,India,20,"Sabudana, Peanuts, Spices",1. Soak sabudana. 2. Cook.,Do not over-soak.
+Thalipeeth,India,25,"Mixed flours, Onions, Spices",1. Make dough. 2. Cook.,Use ghee for aroma.
+Bharli Vangi,India,35,"Brinjal, Coconut masala",1. Stuff brinjals. 2. Cook.,Use small tender brinjals.
+Modak,India,30,"Rice flour, Coconut, Jaggery",1. Make dough. 2. Steam modaks.,Grease hands to shape easily.
+Kolhapuri Chicken,India,45,"Chicken, Spicy masala",1. Fry masala. 2. Cook chicken.,Use lavangi mirchi.
+Poha,India,10,"Flattened rice, Onion, Lemon",1. Rinse poha. 2. Cook with spices.,Do not soak poha.
+Goan Fish Curry,India,25,"Fish, Coconut, Tamarind",1. Make coconut paste. 2. Cook fish.,Use kokum for tanginess.
+Vindaloo,India,40,"Pork, Vinegar, Spices",1. Marinate. 2. Slow cook.,Use Goan vinegar.
+Xacuti,India,45,"Chicken/Mutton, Coconut, Spices",1. Roast spices. 2. Cook meat.,Roast coconut well.
+Bebinca,India,120,"Coconut milk, Flour, Sugar",1. Layer batter and bake repeatedly.,Patience is key.
+Prawn Balchao,India,35,"Prawns, Vinegar, Spices",1. Fry prawns. 2. Cook in vinegar masala.,Store for longer shelf life.
+Sorpotel,India,120,"Pork, Vinegar, Spices",1. Slow cook. 2. Rest overnight.,Tastes better next day.
+Goan Sausages,India,60,"Pork, Vinegar, Spices",1. Season meat. 2. Stuff and dry.,Dry in sun for days.
+Pani Puri,India,15,"Puris, Spiced water, Potato",1. Fill puris. 2. Add water.,Chill water for best taste.
+Sev Puri,India,10,"Puris, Sev, Potatoes, Chutneys",1. Layer puris. 2. Add chutneys.,Add sev at the end.
+Dahi Puri,India,10,"Curd, Potatoes, Sev, Puris",1. Fill puris. 2. Add curd.,Use thick curd.
+Ragda Pattice,India,30,"White peas, Potatoes, Chutneys",1. Make patties. 2. Add ragda.,Garnish with onions.
+Kathi Roll,India,20,"Paratha, Chicken/Egg, Spices",1. Cook filling. 2. Roll.,Use rumali roti for softness.
+Momo,India,20,"Dough, Veg/Chicken filling",1. Fill dumplings. 2. Steam.,Serve with spicy chutney.
+Samosa,India,30,"Flour, Potato filling",1. Make dough. 2. Fry.,Fry on low heat.
+Kachori,India,25,"Flour, Dal/Onion filling",1. Stuff dough. 2. Fry.,Rest dough before frying.
+Chole Kulche,India,20,"Chole, Kulcha, Spices",1. Cook chole. 2. Serve with kulcha.,Butter the kulcha.
+Bhel Puri,India,10,"Puffed rice, Chutneys, Sev",1. Mix all ingredients.,Add chutneys last.
+Egg Roll,India,15,"Paratha, Egg, Veggies",1. Cook paratha. 2. Add egg.,Add lemon juice.
+Dabeli,India,20,"Pav, Potato filling, Chutneys",1. Prepare filling. 2. Assemble.,Roast pav well.
+Frankie,India,20,"Roti, Chicken/Veg filling",1. Prepare filling. 2. Wrap.,Add cheese for richness.
+Bread Pakora,India,15,"Bread, Besan, Potato filling",1. Fill bread. 2. Fry.,Serve hot.
+Chana Jor Garam,India,5,"Flattened chana, Onions, Lemon",1. Mix all ingredients.,Add chat masala.
+Lassi,India,5,"Curd, Sugar/Salt",1. Blend curd.,Serve chilled.
+Masala Chai,India,10,"Tea, Milk, Ginger, Spices",1. Boil tea. 2. Add spices.,Add jaggery for variation.
+Falooda,India,15,"Milk, Falooda sev, Basil seeds",1. Layer ingredients.,Use kulfi for richness.
+Tandoori Momos,India,20,"Momos, Tandoori marinade",1. Coat momos. 2. Grill.,Brush with butter.
+Bhutta (Corn),India,10,"Corn, Lemon, Spices",1. Roast corn. 2. Add spices.,Char until smoky.
+Gulab Jamun,India,30,"Khoya, Sugar syrup",1. Fry balls. 2. Dip in syrup.,Do not fry on high flame.
+Rasmalai,India,45,"Chhena, Milk syrup",1. Make rasgulla. 2. Prepare milk rabri.,Use saffron milk.
+Jalebi,India,30,"Flour, Sugar syrup",1. Fry spirals. 2. Dip in syrup.,Ferment batter.
+Malpua,India,30,"Flour, Milk, Sugar",1. Fry batter. 2. Add syrup.,Serve with rabri.
+Mysore Pak,India,25,"Besan, Ghee, Sugar",1. Cook syrup. 2. Add besan.,Use high-quality ghee.
+Kheer,India,30,"Rice, Milk, Sugar",1. Slow cook rice in milk.,Slow cooking enhances taste.
+Payasam,India,30,"Rice/Vermicelli, Milk, Jaggery",1. Cook payasam.,Add ghee-roasted nuts.
+Halwa (Gajar/Suji),India,25,"Carrot/Suji, Milk, Ghee",1. saute base. 2. Add milk.,Use fresh carrots.
+Kulfi,India,360,"Milk, Dry fruits, Sugar",1. Reduce milk. 2. Freeze.,Use malai.
+Phirni,India,40,"Rice paste, Milk, Sugar",1. Cook milk. 2. Add rice paste.,Serve chilled.
+Basundi,India,60,"Milk, Sugar, Cardamom",1. Reduce milk.,Keep stirring.
+Shahi Tukda,India,30,"Bread, Rabri, Sugar syrup",1. Fry bread. 2. Add syrup & rabri.,Fry bread in ghee.
+Ghevar,India,60,"Flour, Sugar, Ghee",1. Deep fry honeycomb. 2. Add syrup.,Best during monsoons.
+Chenna Poda,India,60,"Chhena, Sugar, Semolina",1. Bake caramelized mixture.,Caramelize top well.
+Laddu (Besan/Motichoor),India,30,"Flour, Sugar, Ghee",1. Make boondi. 2. Form laddus.,Use warm syrup.
+Barfi (Coconut/Kesar),India,35,"Milk solids, Sugar",1. Cook mixture. 2. Set & cut.,Grease tray before pouring.
+Cham Cham,India,45,"Chhena, Syrup",1. Cook chhena in syrup.,Flavor with rose.
+Kulfi Falooda,India,20,"Kulfi, Falooda sev, Syrup",1. Assemble layers.,Serve chilled.
+Bal Mithai,India,60,"Khoya, Sugar, Sugar balls",1. Reduce khoya. 2. Coat with sugar balls.,Cool completely before cutting.
+Bebinca,India,120,"Coconut milk, Sugar, Flour",1. Layer batter. 2. Bake repeatedly.,Patience creates perfect layers.
+Peda (Mathura),India,60,"Milk, Sugar, Ghee",1. Reduce milk. 2. Shape pedas.,Use low flame for caramelization.
+Mawa Jalebi,India,45,"Khoya, Maida, Sugar syrup",1. Make batter. 2. Fry spirals. 3. Dip.,Serve hot.
+Rabri,India,60,"Milk, Sugar, Nuts",1. Reduce milk slowly.,Stir continuously.
+Modak,India,30,"Rice flour, Coconut, Jaggery",1. Shape dumplings. 2. Steam.,Grease hands before shaping.
+Puran Poli,India,45,"Wheat flour, Chana dal, Jaggery",1. Make stuffing. 2. Roll and cook.,Serve with ghee.
+Soan Papdi,India,60,"Sugar, Besan, Ghee",1. Spin sugar. 2. Mix with besan.,Work quickly to get flaky texture.
+Naan,India,20,"Maida, Yeast, Milk",1. Knead dough. 2. Tandoor bake.,Brush with butter.
+Roti (Chapati),India,10,"Wheat flour, Water",1. Knead dough. 2. Make rotis.,Rest dough for softness.
+Paratha,India,15,"Wheat flour, Ghee",1. Roll dough. 2. Cook.,Add ghee for flakiness.
+Laccha Paratha,India,20,"Flour, Ghee",1. Create layers. 2. Cook.,Rest dough to soften gluten.
+Bhatura,India,20,"Flour, Curd, Baking soda",1. Knead dough. 2. Fry.,Ferment dough 2 hours.
+Kulcha,India,20,"Maida, Yeast, Curd",1. Roll dough. 2. Bake.,Top with coriander.
+Missi Roti,India,15,"Gram flour, Wheat flour",1. Knead dough. 2. Cook.,Use ghee for aroma.
+Poori,India,15,"Wheat flour, Oil",1. Fry rolled dough.,Do not over-knead.
+Thepla,India,20,"Flour, Fenugreek",1. Knead with spices. 2. Cook.,Use yogurt.
+Neer Dosa,India,10,Rice batter,1. Pour thin batter. 2. Cook.,Use non-stick pan.
+Appam,India,10,"Rice batter, Coconut milk",1. Pour batter. 2. Rotate pan.,Ferment overnight.
+Puttu,India,10,"Rice flour, Coconut",1. Layer in mould. 2. Steam.,Serve with banana.
+Rumali Roti,India,15,"Flour, Oil",1. Stretch dough thin. 2. Cook over high flame.,Needs very soft dough.
+Tandoori Roti,India,12,"Wheat flour, Water",1. Roll dough. 2. Stick to tandoor.,Wet edges before tandoor.
+Makki Roti,India,20,"Corn flour, Water",1. Shape carefully. 2. Cook.,Use plastic sheet for rolling.
+Bajra Roti,India,15,"Millet flour, Water",1. Pat dough by hand. 2. Cook.,Serve with ghee.
+Pathiri,India,15,"Rice flour, Hot water",1. Knead. 2. Roll thin. 3. Cook.,Keep dough hot.
+Sheermal,India,30,"Flour, Milk, Saffron",1. Knead sweet dough. 2. Bake.,Brush with saffron milk.
+Khameeri Roti,India,60,"Flour, Yeast, Milk",1. Ferment dough. 2. Bake.,Needs warm environment.
+Parotta,India,30,"Maida, Oil",1. Layer dough. 2. Cook.,Rest dough for 2 hours.
+Thalipeeth,India,25,"Multigrain flour, Onions",1. Knead dough. 2. Cook.,Add ghee while serving.
+Akki Roti,India,20,"Rice flour, Vegetables",1. Mix dough. 2. Cook.,Wet hands to shape.
+Jolada Roti,India,15,"Jowar flour, Hot water",1. Pat dough. 2. Cook.,Serve with spicy curries.
+Aloo Paratha,India,20,"Wheat flour, Potato filling",1. Roll stuffed dough. 2. Cook.,Use ghee.
+Hyderabadi Biryani,India,60,"Rice, Chicken/Mutton, Spices",1. Marinate. 2. Layer. 3. Dum.,Use good-quality basmati.
+Lucknowi Biryani,India,60,"Rice, Mutton, Spices",1. Cook meat & rice separately. 2. Dum.,Use saffron.
+Kolkata Biryani,India,60,"Rice, Potato, Meat, Spices",1. Cook meat. 2. Add potatoes. 3. Dum.,Potatoes are key.
+Malabar Biryani,India,45,"Kaima rice, Chicken",1. Make masala. 2. Layer.,Use Jeerakasala rice.
+Tahri,India,25,"Rice, Vegetables, Spices",1. Saute veggies. 2. Add rice.,Use mustard oil.
+Chicken 65,India,25,"Chicken, Curd, Spices",1. Marinate. 2. Fry.,Add curry leaves.
+Mysore Masala Dosa,India,35,"Dosa batter, Potato filling",1. Spread batter. 2. Add masala.,Use cast iron tawa.
+Gongura Chicken,India,45,"Gongura leaves, Chicken, Spices",1. Cook leaves. 2. Add chicken.,Use red gongura.
+Gutti Vankaya,India,45,"Brinjal, Masala",1. Stuff brinjals. 2. Cook.,Use small brinjals.
+Kozhi Varuval,India,40,"Chicken, Spices",1. Marinate. 2. Roast.,Use shallots.
+Chicken Chettinad,India,45,"Chicken, Chettinad spices",1. Roast spices. 2. Cook chicken.,Dry roast whole spices.
+Bagara Baingan,India,40,"Brinjal, Peanuts, Sesame",1. Prepare masala. 2. Cook.,Use tender brinjals.
+Andhra Fish Pulusu,India,30,"Fish, Tamarind, Spices",1. Make tamarind gravy. 2. Cook fish.,Use country fish.
+Mutton Rogan Josh,India,60,"Mutton, Kashmiri spices",1. Browning. 2. Slow cook.,Use Kashmiri chilli.
+Nadru Yakhni,India,50,"Lotus stem, Yogurt",1. Cook stem. 2. Add yogurt gravy.,Simmer on low flame.
+Gushtaba,India,120,"Minced mutton, Yogurt gravy",1. Prepare meatballs. 2. Cook slowly.,Must be creamy.
+Rista,India,60,"Mutton balls, Red gravy",1. Pound meat. 2. Cook in red gravy.,Use wooden pestle.
+Chaman,India,30,"Paneer, Spices",1. Fry paneer. 2. Cook.,Use turmeric generously.
+Khatta Meat,India,60,"Mutton, Anardana",1. Cook meat. 2. Add souring agent.,Serve with rice.
+Dogri Roti,India,20,"Flour, Spices",1. Knead. 2. Cook.,Serve with ghee.
+Siddu,India,60,"Wheat dough, Walnut filling",1. Steam dough. 2. Cook.,Serve with ghee.
+Babru,India,30,"Flour, Black gram",1. Stuff dough. 2. Fry.,Serve hot.
+Madra,India,45,"Rajma/Chana, Yogurt",1. Cook yogurt gravy. 2. Add legumes.,Stir continuously.
+Sidu Pulao,India,40,"Rice, Nuts, Spices",1. Cook rice with spices.,Use ghee.
+Aloo Ke Gutke,India,15,"Potatoes, Spices",1. Fry potatoes.,Use mustard oil.
+Kachmauli,India,60,"Goat meat, Spices",1. Stuff spices. 2. Roast.,Smoke for aroma.
+Kafuli,India,20,"Spinach, Fenugreek",1. Cook greens. 2. Thicken.,Use iron pan.
+Singori,India,20,"Khoya, Coconut",1. Shape. 2. Wrap in leaves.,Serve chilled.
+Laal Maas,India,60,"Mutton, Red chilli",1. Cook meat with masala.,Use Mathania chilli.
+Ker Sangri,India,40,"Ker berries, Sangri beans",1. Soak. 2. Cook.,Use enough oil.
+Gatte Ki Sabzi,India,30,"Besan dumplings, Curd gravy",1. Make gatte. 2. Cook gravy.,Simmer well.
+Papad Ki Sabzi,India,15,"Papad, Yogurt",1. Add papad to gravy.,Add papad at last.
+Dal Baati Churma,India,60,"Dal, Wheat balls, Sugar/Ghee",1. Bake baati. 2. Make churma.,Crush baati hot.
+Rajasthani Kadhi,India,25,"Curd, Besan",1. Cook kadhi.,Temper with ghee.
+Safed Maas,India,60,"Mutton, Cashew gravy",1. Cook meat. 2. Add white gravy.,Use khus khus.
+Mohan Maas,India,60,"Meat, Milk, Spices",1. Slow cook in milk.,Use saffron.
+Banjari Gosht,India,50,"Mutton, Spices",1. Cook meat slowly.,Keep thick gravy.
+Rajasthani Gatte Pulao,India,35,"Rice, Gatte, Spices",1. Add gatte to pulao.,Cook rice al dente.
+Lapsi,India,30,"Broken wheat, Ghee, Sugar",1. Roast wheat. 2. Cook.,Use jaggery.
+Kolkata Fish Fry,India,25,"Bhetki, Crumbs",1. Marinate. 2. Fry.,Use Kolkata bhetki.
+Kosha Mangsho,India,60,"Mutton, Mustard oil",1. Slow cook.,Brown onions well.
+Macher Jhol,India,20,"Fish, Spices",1. Fry fish. 2. Cook gravy.,Use fresh water fish.
+Shukto,India,40,"Mixed veggies, Bitter gourd",1. Simmer with milk and spices.,Keep mild bitterness.
+Aloo Posto,India,20,"Potatoes, Poppy seeds",1. Make posto paste. 2. Cook.,Use mustard oil.
+Dhokar Dalna,India,45,"Lentil cakes, Gravy",1. Make cakes. 2. Add to gravy.,Fry cakes crisp.
+Mishti Doi,India,480,"Milk, Sugar",1. Boil. 2. Ferment.,Use earthen pots.
+Patishapta,India,30,"Crepes, Coconut filling",1. Make crepes. 2. Fill.,Serve warm.
+Spaghetti Carbonara,Italy,25,"Spaghetti, Eggs, Pancetta, Parmesan",1. Cook pasta. 2. Fry pancetta. 3. Mix with eggs & cheese.,Use fresh eggs for creamy texture.
+Margherita Pizza,Italy,30,"Flour, Tomato, Mozzarella, Basil",1. Make dough. 2. Add toppings. 3. Bake.,Use fresh mozzarella.
+Risotto alla Milanese,Italy,40,"Arborio rice, Saffron, Butter, Parmesan",1. saute rice. 2. Add stock gradually. 3. Add saffron.,Stir constantly.
+Lasagna,Italy,60,"Lasagna sheets, Meat sauce, Cheese, BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©chamel",1. Layer sheets & sauce. 2. Bake.,Use ricotta for creamy layers.
+Tiramisu,Italy,60,"Mascarpone, Coffee, Ladyfingers, Cocoa",1. Layer coffee-soaked biscuits and mascarpone.,Chill 4+ hours.
+Fettuccine Alfredo,Italy,20,"Fettuccine, Butter, Parmesan",1. Cook pasta. 2. Mix with butter & cheese.,Serve immediately.
+Pizza Margherita,Italy,25,"Flour, Tomato, Basil, Mozzarella",1. Knead dough. 2. Add toppings. 3. Bake.,Use preheated oven.
+Pesto Pasta,Italy,20,"Basil, Pine nuts, Parmesan, Olive oil",1. Blend pesto. 2. Mix with pasta.,Use fresh basil.
+Caprese Salad,Italy,10,"Tomato, Mozzarella, Basil",1. Slice & layer. 2. Drizzle olive oil.,Use ripe tomatoes.
+Minestrone,Italy,40,"Vegetables, Pasta, Beans, Stock",1 saute vegetables. 2. Add stock & pasta.,Add parmesan while serving.
+Paella,Spain,60,"Rice, Saffron, Seafood, Chicken, Vegetables",1. sautÃÂÃÂ© ingredients. 2. Add rice & broth.,Do not stir rice much.
+Gazpacho,Spain,15,"Tomatoes, Peppers, Cucumber, Garlic",1. Blend all. 2. Chill.,Serve cold.
+Churros,Spain,20,"Flour, Water, Sugar, Oil",1. Make dough. 2. Fry. 3. Coat in sugar.,Serve with chocolate.
+Tortilla espanola,Spain,25,"Potatoes, Eggs, Onion, Olive oil",1. Fry potatoes & onion. 2. Add eggs.,Cook on low heat.
+Paella Valenciana,Spain,60,"Rice, Chicken, Rabbit, Vegetables, Saffron",1. Fry meat & veg. 2. Add rice & broth.,Do not over-stir.
+Croquetas,Spain,30,"Bechamel, Ham, Breadcrumbs, Eggs",1. Make filling. 2. Shape & fry.,Keep filling thick.
+Ratatouille,France,50,"Eggplant, Zucchini, Peppers, Tomato",1. Slice & layer. 2. Bake or stew.,Use fresh herbs.
+Coq au Vin,France,120,"Chicken, Wine, Mushrooms, Bacon",1. Marinate chicken. 2. Cook slowly.,Use Burgundy wine.
+Boeuf Bourguignon,France,150,"Beef, Red wine, Carrots, Mushrooms",1. Brown beef. 2. Slow cook with wine.,Simmer gently.
+Quiche Lorraine,France,45,"Pastry, Eggs, Cream, Bacon",1. Blind bake crust. 2. Add filling. 3. Bake.,Cool slightly before serving.
+Crepes,France,20,"Flour, Eggs, Milk, Butter",1. Make thin batter. 2. Cook on pan.,Spread batter thin for texture.
+Bouillabaisse,France,90,"Fish, Shellfish, Saffron, Vegetables",1. Cook fish & veggies in broth.,Serve with rouille.
+Cassoulet,France,180,"Beans, Pork, Sausage, Duck",1. Brown meat. 2. Bake with beans slowly.,Prepare a day ahead.
+Coq au Riesling,France,120,"Chicken, Riesling, Cream, Mushrooms",1. Brown chicken. 2. Simmer in wine sauce.,Use good Riesling.
+Beef Wellington,UK,120,"Beef fillet, Puff pastry, Mushrooms, Mustard",1. Sear beef. 2. Wrap with pastry & bake.,Keep beef medium rare.
+Fish and Chips,UK,30,"Fish fillets, Potatoes, Batter",1. Fry potatoes. 2. Batter fish & fry.,Serve hot.
+Shepherd's pie,UK,60,"Minced lamb, Mashed potatoes, Vegetables",1. Cook meat. 2. Top with potatoes. 3. Bake.,Golden top is key.
+Full English Breakfast,UK,30,"Eggs, Bacon, Sausage, Beans, Toast",1. Cook each component. 2. Plate together.,Serve immediately.
+Cornish Pasty,UK,50,"Pastry, Beef, Potato, Onion, Swede",1. Prepare filling. 2. Fold pastry & bake.,Seal edges tightly.
+Sticky Toffee Pudding,UK,60,"Dates, Flour, Sugar, Butter",1. Make sponge. 2. Bake & add toffee sauce.,Serve warm with cream.
+Haggis,Scotland,90,"Heart, liver, and lungs of sheep, Offal, Oats, Spices",1. Mix ingredients. 2. Cook in stomach.,Traditionally served with neeps & tatties.
+Welsh Rarebit,Wales,20,"Cheese, Beer, Mustard, Bread",1. Make cheese sauce. 2. Pour on toast.,Serve hot.
+Sauerbraten,Germany,180,"Beef, Vinegar, Onions, Spices",1. Marinate beef 24h. 2. Slow cook with spices.,Use gingersnap cookies for thickening.
+Bratwurst,Germany,30,"Pork/Veal, Spices, Casing",1. Mix meat & spices. 2. Stuff casing & cook.,Grill lightly before serving.
+Pretzel,Germany,25,"Flour, Yeast, Baking soda, Salt",1. Shape dough. 2. Boil briefly. 3. Bake.,Brush with egg wash for shine.
+Schnitzel,Germany/Austria,20,"Veal/Pork, Breadcrumbs, Egg, Flour",1. Pound meat. 2. Coat & fry.,Do not overcrowd pan.
+Spaetzle,Germany,20,"Flour, Eggs, Milk, Salt",1. Mix dough. 2. Press through  spaetzle maker.,Serve with gravy or cheese.
+Kartoffelsalat,Germany,25,"Potatoes, Vinegar, Oil, Onions",1. Boil potatoes. 2. Mix with dressing.,Serve warm or cold.
+Currywurst,Germany,15,"Sausage, Curry ketchup, Spices",1. Fry sausage. 2. Add curry sauce.,Sprinkle curry powder generously.
+Apfelstrudel,Germany,60,"Apples, Puff pastry, Sugar, Cinnamon",1. Prepare filling. 2. Wrap & bake.,Dust with powdered sugar.
+Roulade,Germany,60,"Beef, Bacon, Pickles, Mustard",1. Spread filling. 2. Roll & braise.,Slice thinly for serving.
+Wiener Schnitzel,Austria,20,"Veal, Flour, Egg, Breadcrumbs",1. Pound veal. 2. Coat & fry.,Serve with lemon wedges.
+Gulasch,Hungary,90,"Beef, Paprika, Onion, Carrot",1. saute onion & paprika. 2. Cook meat slowly.,Serve with bread or dumplings.
+Langos,Hungary,30,"Flour, Yeast, Water, Garlic, Oil",1. Make dough. 2. Fry flatbread.,Top with sour cream & cheese.
+Chicken Paprikash,Hungary,60,"Chicken, Paprika, Sour cream, Onion",1. Saute chicken & onions. 2. Add paprika & cream.,Simmer gently.
+Dobos Torte,Hungary,90,"Sponge cake, Chocolate, Buttercream, Caramel",1. Bake thin sponge layers. 2. Assemble with cream.,Top with caramel carefully.
+Pierogi,Poland,45,"Flour, Eggs, Potato/Cheese filling",1. Roll dough. 2. Fill & boil or fry.,Serve with sour cream.
+Bigos,Poland,120,"Sauerkraut, Meat, Mushrooms, Spices",1. Cook slowly.,Enhances flavor next day.
+Zurek,Poland,60,"Sour rye flour, Sausage, Egg, Garlic",1. Prepare sour broth. 2. Add ingredients.,Serve in bread bowl.
+Placki ziemniaczane,Poland,25,"Potatoes, Onion, Flour, Egg",1. Grate potatoes. 2. Fry pancakes.,Serve with sour cream or sugar.
+Sernik,Poland,90,"Cheese, Sugar, Eggs, Pastry base",1. Mix ingredients. 2. Bake.,Cool completely before slicing.
+Kielbasa,Poland,30,"Pork/Beef, Spices, Casing",1. Mix & stuff. 2. Boil or grill.,Smoke lightly for flavor.
+Borscht,Ukraine/Russia,60,"Beets, Cabbage, Carrot, Potato, Meat stock",1. Cook veggies. 2. Add stock.,Serve with sour cream.
+Pelmeni,Russia,45,"Flour, Eggs, Meat filling",1. Roll dough. 2. Fill & boil.,Serve with butter or sour cream.
+Beef Stroganoff,Russia,40,"Beef, Mushrooms, Onion, Sour cream",1. saute meat. 2. Add mushrooms & cream.,Use tender beef.
+Blini,Russia,20,"Flour, Eggs, Milk, Butter",1. Make thin pancakes. 2. Cook on pan.,Top with caviar or jam.
+Pirozhki,Russia,45,"Flour, Yeast, Meat/Vegetable filling",1. Prepare dough. 2. Fill & bake or fry.,Serve warm.
+Shashlik,Russia/Central Asia,60,"Meat chunks, Onion, Spices",1. Marinate meat. 2. Grill skewers.,Serve with onion salad.
+Kofta Curry,Middle East/India,60,"Meatballs, Spices, Tomato sauce",1. Prepare kofta. 2. Cook in curry.,Use fresh herbs.
+Falafel,Middle East,30,"Chickpeas, Garlic, Herbs, Spices",1. Blend chickpeas & spices. 2. Fry.,Serve with tahini sauce.
+Hummus,Middle East,10,"Chickpeas, Tahini, Lemon, Garlic",1. Blend all ingredients.,Drizzle olive oil on top.
+Tabbouleh,Middle East,15,"Bulgur, Parsley, Tomato, Lemon",1. Soak bulgur. 2. Mix with herbs & lemon.,Serve chilled.
+Shawarma,Middle East,30,"Chicken/Beef, Spices, Flatbread, Sauce",1. Marinate meat. 2. Grill & wrap.,Use garlic sauce for authenticity.
+Baklava,Turkey/Middle East,60,"Phyllo, Nuts, Butter, Honey syrup",1. Layer phyllo & nuts. 2. Bake & add syrup.,Cut after cooling.
+Kebabs,Turkey/Middle East,30,"Meat, Spices, Skewers",1. Marinate. 2. Grill.,Use charcoal for flavor.
+Dolma,Turkey/Middle East,60,"Grape leaves, Rice, Meat/Vegetables",1. Stuff leaves. 2. Cook in sauce.,Serve with yogurt.
+Moussaka,Greece,90,"Eggplant, Minced meat, white sauce ",1. Layer vegetables & meat. 2. Bake.,Let it rest before slicing.
+Souvlaki,Greece,25,"Meat chunks, Lemon, Oregano, Skewers",1. Marinate meat. 2. Grill.,Serve with pita & tzatziki.
+Spanakopita,Greece,45,"Phyllo, Spinach, Feta",1. Mix spinach & feta. 2. Layer in phyllo & bake.,Brush phyllo with butter.
+Greek Salad,Greece,10,"Tomato, Cucumber, Feta, Olive oil",1. Chop & mix ingredients.,Add olives last.
+Saganaki,Greece,15,"Kefalotyri cheese, Flour, Olive oil",1. Coat cheese in flour. 2. Fry until golden.,Serve immediately.
+Gyro,Greece,25,"Pita, Meat, Onion, Tomato, Tzatziki",1. Cook meat. 2. Assemble in pita.,Use yogurt-based sauce.
+Ratatouille,France,50,"Eggplant, Zucchini, Bell peppers, Tomato",1. Slice vegetables. 2. Layer & bake or stew.,Use fresh herbs.
+Croissant,France,120,"Flour, Butter, Yeast, Sugar",1. Layer butter in dough. 2. Fold multiple times & bake.,Keep dough cold.
+Quiche Lorraine,France,45,"Pastry, Eggs, Cream, Bacon",1. Blind bake crust. 2. Add filling & bake.,Serve slightly warm.
+Coq au Vin,France,120,"Chicken, Wine, Bacon, Mushrooms",1. Marinate chicken. 2. Cook slowly with wine.,Use Burgundy wine.
+Beef Bourguignon,France,150,"Beef, Red wine, Onion, Carrots",1. Brown beef. 2. Simmer with wine & vegetables.,Cook gently.
+Crepes Suzette,France,30,"Flour, Eggs, Butter, Orange, Sugar",1. Make thin crepes. 2. Prepare sauce & flambÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©.,Serve immediately.
+Pad Thai,Thailand,30,"Rice noodles, Shrimp/Tofu, Egg, Tamarind, Peanuts",1. Soak noodles. 2. Stir-fry ingredients with sauce.,Use fresh lime juice.
+Green Curry,Thailand,40,"Coconut milk, Green curry paste, Chicken/Vegetables",1. Fry curry paste. 2. Add coconut milk & protein.,Serve with jasmine rice.
+Tom Yum Soup,Thailand,30,"Shrimp, Lemongrass, Lime, Chili, Mushrooms",1. Boil broth with herbs. 2. Add shrimp & veggies.,Balance sour & spicy flavors.
+Massaman Curry,Thailand,60,"Beef/Chicken, Coconut milk, Potatoes, Peanuts",1. Cook meat. 2. Add coconut milk & spices.,Simmer slowly for tenderness.
+Som Tam,Thailand,15,"Green papaya, Chili, Lime, Fish sauce",1. Shred papaya. 2. Mix dressing.,Pound gently for authentic flavor.
+Sushi,Japan,60,"Sushi rice, Nori, Fish/Vegetables",1. Cook rice & season. 2. Roll with nori & fillings.,Use fresh fish.
+Tempura,Japan,30,"Shrimp/Vegetables, Flour, Egg, Cold water",1. Make batter. 2. Fry quickly.,Serve immediately.
+Ramen,Japan,60,"Noodles, Broth, Pork/Egg, Vegetables",1. Prepare broth. 2. Cook noodles & assemble.,Use rich broth for flavor.
+Okonomiyaki,Japan,30,"Flour, Cabbage, Egg, Meat/Seafood",1. Mix ingredients. 2. Fry on skillet.,Top with sauce & mayo.
+Takoyaki,Japan,25,"Octopus, Flour, Eggs, Dashi, Toppings",1. Prepare batter. 2. Cook in special pan.,Rotate balls constantly.
+Yakitori,Japan,20,"Chicken, Soy sauce, Sugar, Skewers",1. Skewer meat. 2. Grill & baste.,Serve hot.
+Miso Soup,Japan,10,"Miso paste, Tofu, Seaweed, Scallions",1. Boil dashi. 2. Add miso & tofu.,Do not boil miso.
+Katsudon,Japan,25,"Pork cutlet, Egg, Rice, Onion",1. Fry pork. 2. Cook with egg & onion. 3. Serve over rice.,Use short-grain rice.
+Onigiri,Japan,15,"Rice, Seaweed, Filling",1. Shape rice. 2. Add filling & wrap nori.,Press gently to keep shape.
+Unagi Don,Japan,30,"Eel, Rice, Soy sauce, Mirin, Sugar",1. Grill eel. 2. Prepare sauce. 3. Serve over rice.,Use fresh or pre-grilled eel.
+Bulgogi,Korea,30,"Beef, Soy sauce, Sugar, Garlic, Sesame oil",1. Marinate beef. 2. Grill quickly.,Serve with lettuce wraps.
+Kimchi,Korea,720,"Cabbage, Radish, Chili powder, Garlic",1. Salt vegetables. 2. Mix with spices. 3. Ferment.,Ferment at room temp for 1-2 days.
+Bibimbap,Korea,30,"Rice, Vegetables, Egg, Gochujang",1. Cook rice & vegetables. 2. Assemble with egg & sauce.,Mix thoroughly before eating.
+Tteokbokki,Korea,20,"Rice cakes, Gochujang, Fish cakes, Sugar",1. Boil sauce. 2. Add rice cakes & cook.,Use chewy rice cakes.
+Japchae,Korea,25,"Glass noodles, Vegetables, Soy sauce, Beef",1. Cook noodles. 2. Stir-fry veggies & beef.,Use sesame oil for flavor.
+Samgyeopsal,Korea,30,"Pork belly, Lettuce, Garlic, Sauce",1. Grill pork. 2. Wrap in lettuce with sauce.,Serve immediately.
+Peking Duck,China,120,"Duck, Hoisin sauce, Scallions, Pancakes",1. Prepare duck & roast. 2. Serve with pancakes & sauce.,Crispy skin is key.
+Kung Pao Chicken,China,25,"Chicken, Peanuts, Chili, Soy sauce",1. Marinate chicken. 2. Stir-fry with peanuts & sauce.,Use Sichuan peppercorns.
+Sweet and Sour Pork,China,30,"sugar, vinegar, and spices with the addition of fruit juiceÃ¢ÂÂmost commonly pineappleÃ¢ÂÂand ketchup",1. Fry pork. 2. Add vegetables & sauce.,Balance sweet & sour flavors.
+Mapo Tofu,China,20,"Tofu, Minced pork, Chili bean paste, Garlic",1. Cook pork. 2. Add tofu & sauce.,Serve hot with rice.
+Chow Mein,China,20,"Noodles, Vegetables, Soy sauce, Chicken",1. Cook noodles. 2. Stir-fry with sauce.,High heat prevents sogginess.
+Dim Sum,China,60,"Flour, Meat/Vegetables, Seasonings",1. Prepare dough & fillings. 2. Steam or fry.,Serve fresh.
+Hot Pot,China,90,"Meat, Vegetables, Broth, Dipping sauces",1. Prepare broth. 2. Cook ingredients at table.,"Keep broth simmering, not boiling."
+Sichuan Hotpot,China,90,"Chili, Sichuan pepper, Meat, Vegetables",1. Prepare spicy broth. 2. Cook ingredients.,Adjust spice to taste.
+Fried Rice,China,20,"Rice, Eggs, Vegetables, Soy sauce",1. Stir-fry ingredients. 2. Add rice & sauce.,Use day-old rice.
+Baozi,China,60,"Flour, Yeast, Meat/Vegetable filling",1. Prepare dough. 2. Fill & steam.,Serve immediately.
+Char Siu,China,60,"Pork, Honey, Soy sauce, Five-spice",1. Marinate pork. 2. Roast.,Caramelize glaze for flavor.
+Samosa,India,40,"Flour, Potato, Peas, Spices",1. Prepare dough & filling. 2. Fry until golden.,Serve hot with chutney.
+Empanadas,Spain/Latin America,45,"Pastry, Meat/Vegetables, Spices",1. Fill pastry. 2. Bake or fry.,Seal edges well.
+Ceviche,Peru,15,"Fish, Lime, Onion, Chili, Coriander",1. Marinate fish in lime. 2. Add vegetables.,"Serve immediately, very fresh fish."
+Lomo Saltado,Peru,25,"Beef, Tomato, Onion, Soy sauce, Potatoes",1. Stir-fry beef & vegetables. 2. Mix with fried potatoes.,Use high heat.
+Feijoada,Brazil,120,"Black beans, Pork, Sausage, Spices",1. Cook beans & meat slowly.,Serve with rice & orange slices.
+Moqueca,Brazil,60,"Fish, Coconut milk, Dende oil, Vegetables",1. Cook fish & sauce slowly.,Use fresh seafood.
+Brigadeiro,Brazil,20,"Condensed milk, Cocoa, Butter, Sprinkles",1. Cook condensed milk mixture. 2. Roll & coat.,Cool before rolling.
+Arepas,Venezuela/Colombia,20,"Cornmeal, Water, Salt",1. Mix dough. 2. Shape & cook on skillet.,Split & stuff as desired.]
+Asado,Argentina,120,"Beef cuts, Salt, Chimichurri",1. Grill beef slowly. 2. Serve with chimichurri.,Low heat is key.]
+Choripan,Argentina,15,"Chorizo, Bread, Chimichurri",1. Grill sausage. 2. Serve in bread.,Add chimichurri generously.]
+Tacos,Mexico,20,"Tortillas, Meat, Vegetables, Salsa",1. Cook meat. 2. Assemble tacos.,Warm tortillas before filling.]
+Enchiladas,Mexico,30,"Tortillas, Meat/Beans, Sauce, Cheese",1. Fill tortillas. 2. Roll & bake.,Use fresh sauce.]
+Guacamole,Mexico,10,"Avocado, Onion, Tomato, Lime, Salt",1. Mash avocado. 2. Mix ingredients.,Use ripe avocados.]
+Tamales,Mexico,90,"Masa, Meat/Filling, Corn husks",1. Spread masa. 2. Add filling & steam.,Soak husks well.]
+Pozole,Mexico,120,"Hominy, Pork/Chicken, Chiles, Spices",1. Cook meat & hominy. 2. Add chiles.,Serve with garnishes.]
+Chiles en Nogada,Mexico,90,"Poblano peppers, Meat, Walnut sauce, Pomegranate",1. Stuff peppers. 2. Cover with sauce.,Serve at room temperature.]
+Vegan Pad Thai,Thailand,30,"Rice noodles, Tofu, Vegetables, Tamarind, Peanuts",1. Soak noodles. 2. Stir-fry with tofu & sauce.,Add peanuts just before serving.]
+Tom Kha Gai,Thailand,30,"Chicken, Coconut milk, Galangal, Lime, Chili",1. Boil chicken with herbs. 2. Add coconut milk & lime.,Balance sour & spicy.]
+Green Papaya Salad,Thailand,15,"Papaya, Lime, Chili, Peanuts",1. Shred papaya. 2. Toss with dressing.,Serve fresh.]
+Sushi Rolls,Japan,60,"Sushi rice, Nori, Fish/Vegetables",1. Prepare rice. 2. Roll with nori & fillings.,Use sharp knife to cut rolls.]
+Teriyaki Chicken,Japan,25,"Chicken, Soy sauce, Sugar, Sake, Mirin",1. Marinate chicken. 2. Cook in sauce.,Glaze chicken at the end.]
+Tempura Vegetables,Japan,20,"Vegetables, Flour, Egg, Ice water",1. Prepare batter. 2. Fry vegetables quickly.,Serve immediately for crispiness.]
+Kimchi Fried Rice,Korea,20,"Rice, Kimchi, Eggs, Vegetables",1. Fry kimchi & veggies. 2. Add rice & eggs.,Use day-old rice.]
+Bulgogi Beef,Korea,30,"Beef, Soy sauce, Sugar, Garlic, Sesame oil",1. Marinate beef. 2. Stir-fry quickly.,Serve with rice & lettuce wraps.]
+Bibimbap Bowl,Korea,30,"Rice, Vegetables, Egg, Gochujang",1. Cook rice & veggies. 2. Assemble bowl & top with egg.,Mix thoroughly before eating.]
+Gallo Pinto,Costa Rica,25,"Rice, Black beans, Onion, Bell pepper",1. Cook rice & beans. 2. Mix with veggies.,Serve with eggs for breakfast.]
+Arepas Rellenas,Venezuela/Colombia,20,"Cornmeal, Cheese, Meat/Vegetables",1. Cook arepas. 2. Fill with ingredients.,Serve hot.]
+Feijoada Completa,Brazil,120,"Black beans, Pork cuts, Sausage, Spices",1. Cook beans & meat slowly.,Serve with rice & collard greens.]
+Moqueca Baiana,Brazil,60,"Fish, Coconut milk, Dendeoil, Vegetables",1. Cook fish & sauce slowly.,Use fresh seafood.]
+Coxinha,Brazil,45,"Chicken, Flour, Butter, Onion, Spices",1. Cook chicken & shred. 2. Shape dough & fill. 3. Fry.,Serve hot.]
+Pastel,Brazil,30,"Pastry dough, Meat/cheese filling, Oil",1. Fill pastry. 2. Fry until golden.,Seal edges well.]
+Tiramisu,Italy,60,"Mascarpone, Coffee, Ladyfingers, Cocoa",1. Layer coffee-soaked biscuits and mascarpone.,Chill 4+ hours.]
+Gelato,Italy,90,"Milk, Sugar, Egg yolks, Flavoring",1. Mix ingredients. 2. Churn & freeze.,Use fresh ingredients for creamy texture.]
+Paella de Mariscos,Spain,60,"Rice, Seafood, Saffron, Vegetables",1. Cook seafood. 2. Add rice & saffron. 3. Simmer.,Do not over-stir rice.]
+Churros,Spain,20,"Flour, Water, Sugar, Oil",1. Make dough. 2. Fry. 3. Coat in sugar.,Serve with chocolate sauce.]
+Gazpacho Andaluz,Spain,15,"Tomatoes, Cucumber, Bell pepper, Garlic, Olive oil",1. Blend vegetables. 2. Chill before serving.,Serve very cold.]
+Croquetas de JamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n,Spain,30,"Bechamel, Ham, Breadcrumbs, Egg",1. Prepare filling. 2. Shape & fry.,Keep filling thick.]
+Dolma,Turkey,60,"Grape leaves, Rice, Meat/vegetables, Spices",1. Stuff leaves. 2. Cook in sauce.,Serve with yogurt.]
+Baklava,Turkey/Middle East,60,"Phyllo, Nuts, Butter, Honey syrup",1. Layer phyllo & nuts. 2. Bake & add syrup.,Cut after cooling.]
+Kebab,Turkey/Middle East,30,"Meat, Spices, Skewers",1. Marinate. 2. Grill.,Use charcoal for flavor.]
+Shawarma,Middle East,30,"Chicken/Beef, Spices, Flatbread, Sauce",1. Marinate meat. 2. Grill & wrap.,Use garlic sauce for authenticity.]
+Falafel,Middle East,30,"Chickpeas, Garlic, Herbs, Spices",1. Blend chickpeas & spices. 2. Fry.,Serve with tahini sauce.]
+Hummus,Middle East,10,"Chickpeas, Tahini, Lemon, Garlic",1. Blend all ingredients.,Drizzle olive oil on top.]
+Tabbouleh,Middle East,15,white sauce,1. Soak bulgur. 2. Mix with herbs & lemon.,Serve chilled.]
+Moussaka,Greece,90,"Eggplant, Minced meat,  white sauce",1. Layer vegetables & meat. 2. Bake.,Let it rest before slicing.]
+Souvlaki,Greece,25,"Meat chunks, Lemon, Oregano, Skewers",1. Marinate meat. 2. Grill.,Serve with pita & tzatziki.]
+Spanakopita,Greece,45,"Phyllo, Spinach, Feta",1. Mix spinach & feta. 2. Layer in phyllo & bake.,Brush phyllo with butter.]
+Gyro,Greece,25,"Pita, Meat, Onion, Tomato, Tzatziki",1. Cook meat. 2. Assemble in pita.,Use yogurt-based sauce.]
+Peking Duck,China,120,"Duck, Hoisin sauce, Scallions, Pancakes",1. Prepare duck & roast. 2. Serve with pancakes & sauce.,Crispy skin is key.]
+Kung Pao Chicken,China,25,"Chicken, Peanuts, Chili, Soy sauce",1. Marinate chicken. 2. Stir-fry with peanuts & sauce.,Use Sichuan peppercorns.]
+Sweet and Sour Pork,China,30,"Pork, Pineapple, Bell peppers, Vinegar, Sugar",1. Fry pork. 2. Add vegetables & sauce.,Balance sweet & sour flavors.]
+Mapo Tofu,China,20,"Tofu, Minced pork, Chili bean paste, Garlic",1. Cook pork. 2. Add tofu & sauce.,Serve hot with rice.]
+Chow Mein,China,20,"Noodles, Vegetables, Soy sauce, Chicken",1. Cook noodles. 2. Stir-fry with sauce.,High heat prevents sogginess.]
+Dim Sum,China,60,"Flour, Meat/Vegetables, Seasonings",1. Prepare dough & fillings. 2. Steam or fry.,Serve fresh.]
+Hot Pot,China,90,"Meat, Vegetables, Broth, Dipping sauces",1. Prepare broth. 2. Cook ingredients at table.,"Keep broth simmering, not boiling.]"
+Sichuan Hotpot,China,90,"Chili, Sichuan pepper, Meat, Vegetables",1. Prepare spicy broth. 2. Cook ingredients.,Adjust spice to taste.]
+Fried Rice,China,20,"Rice, Eggs, Vegetables, Soy sauce",1. Stir-fry ingredients. 2. Add rice & sauce.,Use day-old rice.]
+Baozi,China,60,"Flour, Yeast, Meat/Vegetable filling",1. Prepare dough. 2. Fill & steam.,Serve immediately.]
+Char Siu,China,60,"Pork, Honey, Soy sauce, Five-spice",1. Marinate pork. 2. Roast.,Caramelize glaze for flavor.]
+Ceviche,Peru,15,"Fish, Lime, Onion, Chili, Coriander",1. Marinate fish in lime. 2. Add vegetables.,"Serve immediately, very fresh fish.]"
+Lomo Saltado,Peru,25,"Beef, Tomato, Onion, Soy sauce, Potatoes",1. Stir-fry beef & vegetables. 2. Mix with fried potatoes.,Use high heat.]
+Feijoada,Brazil,120,"Black beans, Pork, Sausage, Spices",1. Cook beans & meat slowly.,Serve with rice & orange slices.]
+Moqueca,Brazil,60,"Fish, Coconut milk, Dende oil, Vegetables",1. Cook fish & sauce slowly.,Use fresh seafood.]
+Maggi,India,5,Maggi noodles; tastemaker; 1.5 cups water; optional veggies; 1 tsp oil,Heat oil and sautÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© veggies; add water and boil; add noodles and tastemaker; cook 2ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ3 mins,Use less water for thicker texture; add cheese or veggies for extra flavor]
